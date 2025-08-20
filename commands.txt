@@ -1,0 +1,27 @@
+-> command for checking status
+
+git config --list
+
+-> command for creating username
+
+git config --global user.name "user_name"
+
+-> command for adding user email
+
+git config --global user.email "email"
+
+-> command for initializing git
+ 
+ git init
+
+-> command for listing all untracked files
+
+git status
+
+-> command for adding all untracked files to staging area
+
+git add -add
+
+-> command to add all staged files to local repository
+
+git commit -m "meassage"
